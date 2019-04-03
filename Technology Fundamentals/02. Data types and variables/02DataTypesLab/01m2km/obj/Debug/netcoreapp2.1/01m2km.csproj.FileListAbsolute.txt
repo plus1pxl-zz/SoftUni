@@ -1,0 +1,11 @@
+D:\Downloads\Edu\Soft Uni\Technology Fundamentals with C#\02. Data types and variables\Lab\02DataTypesLab\01m2km\obj\Debug\netcoreapp2.1\01m2km.csprojAssemblyReference.cache
+D:\Downloads\Edu\Soft Uni\Technology Fundamentals with C#\02. Data types and variables\Lab\02DataTypesLab\01m2km\obj\Debug\netcoreapp2.1\01m2km.csproj.CoreCompileInputs.cache
+D:\Downloads\Edu\Soft Uni\Technology Fundamentals with C#\02. Data types and variables\Lab\02DataTypesLab\01m2km\obj\Debug\netcoreapp2.1\01m2km.AssemblyInfoInputs.cache
+D:\Downloads\Edu\Soft Uni\Technology Fundamentals with C#\02. Data types and variables\Lab\02DataTypesLab\01m2km\obj\Debug\netcoreapp2.1\01m2km.AssemblyInfo.cs
+D:\Downloads\Edu\Soft Uni\Technology Fundamentals with C#\02. Data types and variables\Lab\02DataTypesLab\01m2km\bin\Debug\netcoreapp2.1\01m2km.deps.json
+D:\Downloads\Edu\Soft Uni\Technology Fundamentals with C#\02. Data types and variables\Lab\02DataTypesLab\01m2km\bin\Debug\netcoreapp2.1\01m2km.runtimeconfig.json
+D:\Downloads\Edu\Soft Uni\Technology Fundamentals with C#\02. Data types and variables\Lab\02DataTypesLab\01m2km\bin\Debug\netcoreapp2.1\01m2km.runtimeconfig.dev.json
+D:\Downloads\Edu\Soft Uni\Technology Fundamentals with C#\02. Data types and variables\Lab\02DataTypesLab\01m2km\bin\Debug\netcoreapp2.1\01m2km.dll
+D:\Downloads\Edu\Soft Uni\Technology Fundamentals with C#\02. Data types and variables\Lab\02DataTypesLab\01m2km\bin\Debug\netcoreapp2.1\01m2km.pdb
+D:\Downloads\Edu\Soft Uni\Technology Fundamentals with C#\02. Data types and variables\Lab\02DataTypesLab\01m2km\obj\Debug\netcoreapp2.1\01m2km.dll
+D:\Downloads\Edu\Soft Uni\Technology Fundamentals with C#\02. Data types and variables\Lab\02DataTypesLab\01m2km\obj\Debug\netcoreapp2.1\01m2km.pdb

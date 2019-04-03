@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_03zigZagArrays</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Program.cs~RF1ac1635.TMP" />
+  </ItemGroup>
+
+</Project>
